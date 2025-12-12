@@ -15,7 +15,7 @@ This is a comprehensive data analysis project based on the backend data of an ed
 First, we organized the mapping relationships between the different data tables. Then, we selected key metrics and scored student performance. We also conducted analysis on specific indicators to derive classroom planning suggestions. Additionally, we used bi_kmeans clustering to classify students, obtaining data labels to facilitate better data analysis.
 
 ## 👥 Team Members
-ying, feng, jiayi, zhu, lingjun, zheng
+Ying Feng, Jiayi Zhu, Lingjun Zheng
 
 ## 🤝 Task Division
 For each step, we chose to work concurrently. This included organizing data table mappings, conducting data analysis, and other tasks.
