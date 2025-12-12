@@ -1,6 +1,6 @@
 # Student Learning Analytics
 ## 📊 Project Overview
-This is a comprehensive data analysis project based on the backend data of an educational app. Using multi-dimensional data such as student attendance rates and exam scores, we have built a user profiling system. The goal is to gain a deep understanding of student learning behaviors and provide data-driven decision support for optimizing educational products.
+This is a comprehensive data analysis project based on the backend data of an educational app. Using multi-dimensional data such as student attendance rates and exam scores, we have built a user profiling system. . The goal is to gain a deep understanding of student learning behaviors, predict student learning behavior, provide early warning for student risk behaviors (such as skipping classes, not submitting assignments, missing exams, etc.), and offer data-driven decision support for optimizing educational products.
 
 **Project Type**: University course assignment project  
 **Data Source**: Anonymized backend data from a learning app (including attendance, grades, interactions, etc.)  
