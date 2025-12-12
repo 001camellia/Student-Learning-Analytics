@@ -12,7 +12,7 @@ This is a comprehensive data analysis project based on the backend data of an ed
 - **Product Feature Insights**: Provide data-based evidence for educational app feature updates
 
 ## 🔧 Technical Approach Overview
-First, we organized the mapping relationships between the different data tables. Then, we selected key metrics and scored student performance. We also conducted analysis on specific indicators to derive classroom planning suggestions. Additionally, we used bi_kmeans clustering to classify students, obtaining data labels to facilitate better data analysis.
+First, we organized the mapping relationships between the different data tables. Then,we used bi_kmeans clustering to classify students, obtaining data labels to facilitate better data analysis. we selected key metrics and scored student performance. We also conducted analysis on specific indicators to derive classroom planning suggestions.Plus, we employed regression algorithms to predict student risk indicators.
 
 ## 👥 Team Members
 Ying Feng, Jiayi Zhu, Lingjun Zheng
